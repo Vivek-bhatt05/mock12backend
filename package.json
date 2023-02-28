@@ -1,0 +1,25 @@
+{
+  "name": "mock12backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivek-bhatt05/mock12backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivek-bhatt05/mock12backend/issues"
+  },
+  "homepage": "https://github.com/Vivek-bhatt05/mock12backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
